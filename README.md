@@ -24,6 +24,8 @@ An explorable Earth that runs in your browser, as an installable app.
 ### 📫 Say hi
 Open an issue on the Terlask repo with ideas or bugs. They're welcome.
 
+###email
+terlask5@gmail.com 
 <!--
 **Terlask/Terlask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
