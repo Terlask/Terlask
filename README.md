@@ -25,4 +25,4 @@ An explorable Earth that runs in your browser, as an installable app.
 Open an issue on the Terlask repo with ideas or bugs. They're welcome.
 
 email:-
-terlask5@gmail.com 
+terlask5@gmail.com .
